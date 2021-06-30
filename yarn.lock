@@ -22859,6 +22859,7 @@ resolve@^1.17.0:
     "@babel/plugin-proposal-object-rest-spread": ^7.7.4
     "@babel/preset-env": ^7.7.4
     "@babel/preset-typescript": ^7.7.7
+    "@craftjs/core": "workspace:packages/core"
     "@testing-library/react": ^9.4.0
     "@types/jest": ^24.0.25
     "@types/react-dom": ^16.8.0
