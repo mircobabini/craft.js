@@ -52,10 +52,11 @@ export const Toolbox = () => {
               <Element
                 canvas
                 is={Container}
-                background={{ r: 78, g: 78, b: 78, a: 1 }}
+                background={{ r: 230, g: 230, b: 230, a: 1 }}
                 color={{ r: 0, g: 0, b: 0, a: 1 }}
-                height="300px"
-                width="300px"
+                margin={['10', '0', '0', '0']}
+                height="150px"
+                width="100%"
               ></Element>
             )
           }
